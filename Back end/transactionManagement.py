@@ -1,5 +1,5 @@
 from database import create_connection
-from models.book import Book
+from user import Book
 
 class Transaction:
     @staticmethod
